@@ -2,7 +2,7 @@
 Dental clinic
 <!-- نفس الهيكل السابق مع تعديل التخزين -->
 <script>
-    // مفتاح التشفير (غيّره إلى مفتاح طويل ومعقد ولا تخبر به أحداً)
+    
     const ENCRYPTION_KEY = "عيادة@سما#2025$$$key123!";
 
     function encryptData(data) {
